@@ -32,4 +32,5 @@ void	ft_ft(int *nbr)
 	printf("poop number: %d\n",  *p);
     printf("poop number through pointer: %d\n", *p);
 
-}*/
+}
+HelloAnthony*/
