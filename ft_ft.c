@@ -6,7 +6,7 @@
 /*   By: adunne <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/17 10:42:48 by adunne            #+#    #+#             */
-/*   Updated: 2022/01/17 11:03:19 by adunne           ###   ########.fr       */
+/*   Updated: 2022/03/02 16:26:34 by pwhittin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ void	ft_ft(int *nbr)
 	*nbr = 42;
 }
 
-/*int main(void)
+int main(void)
 {
 	int poop;
 
@@ -32,4 +32,4 @@ void	ft_ft(int *nbr)
 	printf("poop number: %d\n",  *p);
     printf("poop number through pointer: %d\n", *p);
 
-}*/
+}
