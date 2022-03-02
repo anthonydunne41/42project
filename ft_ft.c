@@ -22,7 +22,7 @@ int main(void)
 {
 	int poop;
 
-	poop = 69;
+	poop = 420;
 	int *p = &poop;
 	printf("poop number: %d\n",  *p);
 	printf("poop number through pointer: %d\n", *p);
